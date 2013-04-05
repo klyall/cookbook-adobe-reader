@@ -1,7 +1,7 @@
 Description
 ===========
 
-Installs and configures Dobe Reader from the repositories provided by Adobe.
+Installs and configures Adobe Reader from the repositories provided by Adobe.
 
 
 Requirements
